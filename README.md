@@ -1,5 +1,5 @@
 ## Arithmetic Formatter in Python
-### Sollution to freecodecamp [challenge](htthttps://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatterp:// "challenge")
+### Sollution to freecodecamp [challenge](https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter)
 
 #### Notes:
 This repository only contains the file which has the solution implemented. The remaining files, which are used for developing purposes, testing etc. are located in the link above, along with the description of the problem and requirements.
